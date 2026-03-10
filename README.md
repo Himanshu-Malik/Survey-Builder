@@ -201,3 +201,4 @@ React • JavaScript • TypeScript • HTML • CSS • SQL • PHP
 - Role-based access control
 - Survey builder with drag-and-drop questions
 - Export survey responses to CSV
+- Survey Preview
