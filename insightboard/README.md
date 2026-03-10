@@ -9,9 +9,7 @@ This project was built as a portfolio project to showcase **React engineering pr
 
 ## 🚀 Live Demo
 
-(After deployment add here)
-
-https://your-project.vercel.app
+https://insightboard-5cvouv5q0-himanshus-projects-204f9386.vercel.app/
 
 ---
 
